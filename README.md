@@ -12,5 +12,5 @@
 # Cosmos Helper 
 - This is a personal bot for guilds that I love!
 - https://github.com/CyberCosmos24/Cosmos-Helper-Bot
-- 
+
 
