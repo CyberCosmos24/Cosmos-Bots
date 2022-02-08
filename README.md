@@ -2,7 +2,7 @@
 
 
 # Space 
-- Space is a small fun and utitly bot made for smmall guilds! 
+- Space is a small fun and utitly bot made for small guilds! 
 - https://github.com/CyberCosmos24/SpaceBot
 
  #Vision 
