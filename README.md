@@ -1,4 +1,4 @@
-# List of of Discord Bots I have developed and its purpose
+# List of of Discord Bots I have developed and their purpose
 
 
 # Space 
